@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working as:
+
+- Head of Delivery at [ODI Leeds](https://odileeds.org). You can find what I'm up to there on the
+  [ODI Leeds](https://github.com/odileeds) or [Open Production](https://github.com/opnprd) organisation
+  pages.
+- Technical Director for [Equal Care Co-op](https://equalcare.coop). We're building a platform that will
+  provide an enhanced way to connect people giving and getting support in their communities.
+- I'm also run [Dring Technology Solutions](https://dringtech.com), providing support to a range of small
+  and medium-sized businesses.
