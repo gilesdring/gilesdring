@@ -22,5 +22,5 @@ I'm currently working as:
   pages.
 - Technical Director for [Equal Care Co-op](https://equalcare.coop). We're building a platform that will
   provide an enhanced way to connect people giving and getting support in their communities.
-- I'm also run [Dring Technology Solutions](https://dringtech.com), providing support to a range of small
+- I also run [Dring Technology Solutions](https://dringtech.com), providing support to a range of small
   and medium-sized businesses.
