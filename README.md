@@ -21,6 +21,6 @@ I'm currently working as:
   [ODI Leeds](https://github.com/odileeds) or [Open Production](https://github.com/opnprd) organisation
   pages.
 - Technical Director for [Equal Care Co-op](https://equalcare.coop). We're building a platform that will
-  provide an enhanced way to connect people giving and getting support in their communities.
+  provide an new way to connect people giving and getting support in their communities.
 - I also run [Dring Technology Solutions](https://dringtech.com), providing support to a range of small
   and medium-sized businesses.
