@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm currently working as:
 
-- Head of Delivery at [ODI Leeds](https://odileeds.org). You can find what I'm up to there on the
-  [ODI Leeds](https://github.com/odileeds) or [Open Production](https://github.com/opnprd) organisation
+- Technology Associate at [Open Innovation](https://open-innovations.org). You can find what I'm up to there on the
+  [Open Innovations GitHub organisation](https://github.com/open-innovations)
   pages.
 - Technical Director for [Equal Care Co-op](https://equalcare.coop). We're building a platform that will
   provide an new way to connect people giving and getting support in their communities.
